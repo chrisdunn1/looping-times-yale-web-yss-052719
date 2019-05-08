@@ -2,14 +2,7 @@ def using_times
 	#your code here
   7.times do
       puts "Wingardium Leviosa"
-  end 
+  end
 end
 
-puts using_times 
-
-
-
-
-
-
-
+puts using_times
